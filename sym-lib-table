@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LoRa-Module-muRata-rescue")(type "Legacy")(uri "D:/DEDE_KICAD/LoRa-Module-muRata/LoRa-Module-muRata-rescue.lib")(options "")(descr ""))
+  (lib (name "BlueNRG-LP-rescue")(type "KiCad")(uri "D:/Dede_Kicad/BlueNRG-LP/BlueNRG-LP-30-3-21/BlueNRG-LP-rescue.kicad_sym")(options "")(descr ""))
+)

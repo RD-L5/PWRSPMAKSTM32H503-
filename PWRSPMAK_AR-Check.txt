@@ -1,0 +1,15 @@
+AR checking written on:
+'D:\Dede_Kicad\PWRSP\PWRSPMAK\PWRSPMAK_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.125
+PHD margin on PTH = 0
+
+AR Via violation of 0.1 at XY 133.582416,83.858592
+AR Via violation of 0.1 at XY 125.337452,78.81
+AR Via violation of 0.1 at XY 125.337452,79.51
+AR Via violation of 0.1 at XY 140.87,85.37
+VIAS that Pass = 5; Fails = 4
+TH PADS that Pass = 46; Fails = 0
+NPTH PADS that Pass = 0; Fails = 0

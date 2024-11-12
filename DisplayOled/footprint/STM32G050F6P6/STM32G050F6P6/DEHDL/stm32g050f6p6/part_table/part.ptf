@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32G050F6P6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32G050F6P6" (!) = "", "SOP65P640X120-20N", "Small Outline Packages", "", "", "", "", "Mainstream Value line, Arm Cortex-M0+ MCU with 32 Kbytes of Flash memory, 18 Kbytes RAM, 64 MHz CPU, 2x USART, timers, ADC, comm. I/F, 2-3.6V", "https://www.st.com/resource/en/datasheet/stm32g050c6.pdf", "1.2 mm"
+END_PART
+
+END.

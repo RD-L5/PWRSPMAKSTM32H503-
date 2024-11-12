@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32G050F6P6
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=20
+Version=2.1
+Released=2022-09-02 07:58:28
+Downloaded=2024-04-03 04:28:02
+3D=Y
